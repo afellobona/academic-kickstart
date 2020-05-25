@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Andrea
+title: Andrea Felloni
 role: Consultant
 bio: Short Bio
 interests:
