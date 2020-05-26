@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: kwantis
+    url: "www.kwantis.com"
 superuser: true
 authors:
   - admin
@@ -15,7 +15,8 @@ social:
     icon_pack: fas
     link: "#contact"
   - icon: fa-linkedin
-    icon_pack: fas
+    icon_pack: fab
+    
 education:
   courses: []
 email: ""
