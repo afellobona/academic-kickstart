@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: kwantis
+    url: https://www.kwantis.com
 superuser: true
 authors:
   - admin
@@ -16,13 +16,11 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://twitter.com
+  - icon: fa-linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com
+ 
 education:
   courses: []
 email: ""
